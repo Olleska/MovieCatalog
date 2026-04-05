@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "uil_key-skeleton-alt.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "calendar_month_white_24dp 1.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
